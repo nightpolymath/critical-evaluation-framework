@@ -113,7 +113,7 @@ The framework catalogs recurring failure modes, enabling rapid diagnosis:
 
 ### With an LLM (as Research Assistant)
 
-The CEF is designed for instruction to Claude, ChatGPT, Gemini, or Copilot. Frame your analysis request with:
+The CEF is designed for instruction to Claude, ChatGPT, Gemini, or Copilot. Therefore, you can include the framework as a file in your Project. Frame your analysis request with:
 - Clear objective (using Lens 1 checklist)
 - Relevant lens cluster (from Selective Application Guidance)
 - Whether you want single-pass or iterative dialogue
