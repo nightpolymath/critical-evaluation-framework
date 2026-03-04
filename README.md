@@ -248,11 +248,7 @@ The CEF draws on:
 
 If you use the CEF in research or analysis, cite it as:
 
-> Syed, S. (2026). Integrated Critical Evaluation Framework v6.1. Retrieved from https://github.com/syed-shibli/critical-evaluation-framework
-
-For academic work with a DOI (via Zenodo):
-
-> Syed, S. (2026). Integrated Critical Evaluation Framework v6.1. *Zenodo*. https://doi.org/[zenodo-doi]
+> Shibli, S. (2026). Integrated Critical Evaluation Framework v6.1. *Zenodo*. https://doi.org/10.5281/zenodo.18867756
 
 ---
 
